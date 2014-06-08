@@ -1,0 +1,13 @@
+{
+  "name": "fulcrum-demo",
+  "version": "0.0.1",
+  "description": "A demo app showing how to integrate Fulcrum with the Accela platform.",
+  "main": "index.js",
+  "dependencies": {
+    "accela-construct": "latest",
+    "express": "latest",
+    "body-parser": "latest"
+  },
+  "author": "Mark Headd <mheadd@accela.com> (http://civic.io/)",
+  "license": "ISC"
+}
